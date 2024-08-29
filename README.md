@@ -5,4 +5,4 @@ A technology choice model inspired by Brian Arthur in a population with a networ
 
 On average Erdos-Renyi network has a higher normalized Hirschman-Herfindahl index for a small number of possible technologies.
 
-Please read the `Technology choice` pdf for more details.
+Please read the [Technology choice](https://github.com/MohidulHaqueTushar/Agent-Base-Modeling-Technology-Choice/blob/main/Technology%20choice.pdf) pdf for more details.
